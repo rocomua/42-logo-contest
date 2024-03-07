@@ -1,3 +1,8 @@
+# Logo Contest submission by rkogut
+- **Coalitions logo**
+- **Extra logo**
+- **Brandbook of Galaf**
+
 # 42-logo-contest
 
 - **everyone can participate**
